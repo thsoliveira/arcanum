@@ -26,7 +26,7 @@
     "@ngrx/store": "^7.4.0",
     "@ngrx/store-devtools": "^7.4.0",
     "bootstrap": "^4.3.1",
-    "core-js": "^2.5.4",
+    "core-js": "^3.15.2",
     "jquery": "^3.4.1",
     "ngx-toastr": "^10.0.2",
     "popper": "^1.0.1",
